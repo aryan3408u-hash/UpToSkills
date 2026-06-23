@@ -1,0 +1,112 @@
+text,sentiment
+I love this product,Positive
+Amazing quality,Positive
+Excellent service,Positive
+Very happy with the purchase,Positive
+Works perfectly,Positive
+Worst experience ever,Negative
+Terrible quality,Negative
+Very disappointed,Negative
+Waste of money,Negative
+Not recommended,Negative
+The product is okay,Neutral
+Average quality,Neutral
+Nothing special,Neutral
+It works as expected,Neutral
+Fine for the price,Neutral
+text,sentiment
+I love this product,Positive
+Amazing quality,Positive
+Excellent service,Positive
+Very happy with the purchase,Positive
+Works perfectly,Positive
+This is wonderful,Positive
+Very good experience,Positive
+Highly recommended,Positive
+Fantastic product,Positive
+Best purchase ever,Positive
+
+Worst experience ever,Negative
+Terrible quality,Negative
+Very disappointed,Negative
+Waste of money,Negative
+Not recommended,Negative
+Bad service,Negative
+Very poor product,Negative
+I hate this,Negative
+Completely useless,Negative
+Awful experience,Negative
+
+The product is okay,Neutral
+Average quality,Neutral
+Nothing special,Neutral
+It works as expected,Neutral
+Fine for the price,Neutral
+Neither good nor bad,Neutral
+Acceptable performance,Neutral
+It is normal,Neutral
+Just okay,Neutral
+Decent product,Neutral
+text,sentiment
+I love this product,Positive
+Amazing quality,Positive
+Excellent service,Positive
+Very happy with the purchase,Positive
+Works perfectly,Positive
+This is wonderful,Positive
+Very good experience,Positive
+Highly recommended,Positive
+Fantastic product,Positive
+Best purchase ever,Positive
+I am extremely satisfied,Positive
+Superb quality,Positive
+Very impressed,Positive
+Absolutely amazing,Positive
+Great value for money,Positive
+I enjoyed using it,Positive
+Very useful,Positive
+This made my day,Positive
+Outstanding performance,Positive
+I really like it,Positive
+
+Worst experience ever,Negative
+Terrible quality,Negative
+Very disappointed,Negative
+Waste of money,Negative
+Not recommended,Negative
+Bad service,Negative
+Very poor product,Negative
+I hate this,Negative
+Completely useless,Negative
+Awful experience,Negative
+This is horrible,Negative
+Extremely bad,Negative
+I regret buying this,Negative
+Very frustrating,Negative
+Poor performance,Negative
+The quality is unacceptable,Negative
+This is a disaster,Negative
+I am unhappy,Negative
+It broke quickly,Negative
+This is the worst product,Negative
+
+The product is okay,Neutral
+Average quality,Neutral
+Nothing special,Neutral
+It works as expected,Neutral
+Fine for the price,Neutral
+Neither good nor bad,Neutral
+Acceptable performance,Neutral
+It is normal,Neutral
+Just okay,Neutral
+Decent product,Neutral
+Average experience,Neutral
+Nothing impressive,Neutral
+Reasonable quality,Neutral
+It does the job,Neutral
+No strong opinion,Neutral
+It's acceptable,Neutral
+Fair enough,Neutral
+Moderate quality,Neutral
+Standard performance,Neutral
+Not bad not great,Neutral
